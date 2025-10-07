@@ -9,7 +9,7 @@ export const useAppApi = () => {
   useEffect(() => {
     const fetchAppData = async () => {
       try {
-        const res = await axios.get("/AppData.json");
+        const res = await axios.get("../AppData.json");
         setApp(res.data);
       } catch (err) {
         setError(err.message);
