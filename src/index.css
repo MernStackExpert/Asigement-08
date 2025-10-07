@@ -2,3 +2,8 @@
 @plugin "daisyui" {
   themes: light --default, dark, cupcake;
 }
+
+body
+{
+  background-color: #d2d2d234;
+}

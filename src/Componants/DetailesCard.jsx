@@ -1,13 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import downloadIcon from "../assets/icon-downloads.png";
 import ratingIcon from "../assets/icon-ratings.png";
 import likeIcon from "../assets/icon-review.png";
+import { addInstallData, getStoredData } from '../Utils/LocalStrog';
 
-const DetailesCard = ({findData}) => {
-  const { image, title, companyName, ratingAvg, size, downloads, reviews } = findData;
+const DetailesCard = ({ findData }) => {
+  const { id, image, title, companyName, ratingAvg, size, downloads, reviews } = findData;
+  const alreadyInstalled = getStoredData().includes(id);
+  const [isInstalled, setIsInstalled] = useState(alreadyInstalled);
+
+  const handleAddData = (id) => {
+    addInstallData(id); 
+    setIsInstalled(true);
+  };
+
   return (
-     <div className=" bg-base-200 p-5 h-[350px]">
-      <div className="flex items-center">
+    <div className=" bg-base-200 p-5 min-h-[350px]">
+      <div className="flex items-center max-sm:items-start max-sm:flex-col">
         <div>
           <figure className="h-[350px] w-[350px] p-10 overflow-hidden">
             <img
@@ -17,7 +26,6 @@ const DetailesCard = ({findData}) => {
             />
           </figure>
         </div>
-
         <div>
           <div>
             <h1 className="text-2xl font-bold">
@@ -27,15 +35,15 @@ const DetailesCard = ({findData}) => {
               Developed by <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">{companyName}</span>
             </h1>
 
-            <div className="flex space-x-30 max-sm:space-x-0 max-sm:space-y-10  text-center max-sm:flex-col border-t border-gray-300 pt-6">
+            <div className="flex space-x-30 max-sm:space-x-0 max-sm:space-y-10 text-center max-sm:flex-col border-t border-gray-300 pt-6">
               <div className="space-y-1">
                 <img className="h-[40px] w-[40px]" src={downloadIcon} alt="" />
-                <h1>Downloads</h1>
+                <h1 className="text-start">Downloads</h1>
                 <h1 className="font-bold text-3xl text-start">{downloads}</h1>
               </div>
               <div className="space-y-1">
                 <img className="h-[40px] w-[40px]" src={ratingIcon} alt="" />
-                <h1>Average Ratings</h1>
+                <h1 className="text-start">Average Ratings</h1>
                 <h1 className="font-bold text-3xl text-start">{ratingAvg}</h1>
               </div>
               <div className="space-y-1">
@@ -47,8 +55,12 @@ const DetailesCard = ({findData}) => {
           </div>
 
           <div className="mt-5">
-            <button className="btn bg-[#00D390] text-white">
-              Install Now ( {size} MB )
+            <button
+              onClick={() => handleAddData(id)}
+              disabled={isInstalled}
+              className={`btn text-white ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#00D390]'}`}
+            >
+              {isInstalled ? 'Already Installed' : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>

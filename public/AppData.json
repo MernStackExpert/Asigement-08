@@ -4,503 +4,335 @@
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 1,
-    "description": "A simple, secure, and reliable messaging and calling app. Connect with friends and family for free.",
+    "description": "WhatsApp Messenger offers a fast, simple, and secure way to connect with people globally. Built on the principle of private communication, it uses end-to-end encryption to ensure that only you and the person you're communicating with can read or listen to what is sent. Beyond one-on-one chats, it supports robust group chats, high-quality voice and video calls, and Status updates to share moments from your day. It’s a complete communication tool designed to be reliable even on slow networks, making it an essential part of daily life for billions.\n\nA key feature of WhatsApp is its versatility. Users can share photos, videos, documents, and voice messages effortlessly. The platform has expanded to include WhatsApp Business, allowing small companies to connect with their customers professionally. Group video calls connect up to eight people, making it easy to stay in touch with family, friends, or colleagues. The app is also entirely ad-free, focusing purely on providing a seamless and uninterrupted communication experience across mobile and desktop devices through its web and desktop apps.\n\nFor anyone looking for a dependable and private communication tool, WhatsApp is the go-to choice. It bridges geographical distances, allowing you to have personal conversations or manage professional discussions without worrying about privacy or cost. Its simple interface makes it accessible to all ages, while its powerful features ensure it can handle all your messaging needs. It's more than just an app; it's a vital link to the people who matter most, keeping you connected anytime, anywhere.",
     "size": 55,
-    "reviews": 180543876,
+    "reviews": "180.5M",
     "ratingAvg": 4.7,
     "downloads": "5B+",
-    "ratings": [
-      { "name": "1 star", "count": 3610877 },
-      { "name": "2 star", "count": 3610877 },
-      { "name": "3 star", "count": 7221755 },
-      { "name": "4 star", "count": 21665265 },
-      { "name": "5 star", "count": 144435099 }
-    ]
+    "ratings": [{"name": "1 star", "count": 3610877}, {"name": "2 star", "count": 3610877}, {"name": "3 star", "count": 7221755}, {"name": "4 star", "count": 21665265}, {"name": "5 star", "count": 144435099}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 2,
-    "description": "Share photos, videos, and stories. Connect with friends, discover new interests, and explore what's happening in the world.",
+    "description": "Instagram is a vibrant social network centered around sharing visual stories through photos and videos. It provides a platform for users to express their creativity, share life moments, and connect with a global community. The core of the experience is the feed, where you see updates from friends, family, and creators you follow. The platform has evolved beyond simple photo sharing, becoming a cultural hub where trends are born, and new ideas are discovered. Its design is intuitive and visually driven, encouraging users to capture and share the world around them beautifully.\n\nA unique strength of Instagram lies in its diverse content formats. 'Stories' allow for ephemeral, day-in-the-life updates, while 'Reels' offer a space for short, entertaining videos powered by a vast library of music and effects. For longer content, there's IGTV. The platform also features robust direct messaging, shopping capabilities that turn inspiration into purchase, and powerful creative tools like AR filters. This multi-faceted approach allows creators and users to engage in a variety of ways, from casual sharing to building a professional brand.\n\nFor those who want to connect visually, Instagram is an indispensable tool. It’s a place to find inspiration for your hobbies, follow the journeys of your favorite personalities, and stay updated on the latest in fashion, food, and travel. By combining social networking with powerful creative tools and e-commerce, Instagram offers a dynamic space where you can not only consume content but also create, share, and connect in a meaningful and visually compelling way.",
     "size": 85,
-    "reviews": 142109876,
+    "reviews": "142.1M",
     "ratingAvg": 4.5,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 5684395 },
-      { "name": "2 star", "count": 4263296 },
-      { "name": "3 star", "count": 7105493 },
-      { "name": "4 star", "count": 18474283 },
-      { "name": "5 star", "count": 106582409 }
-    ]
+    "ratings": [{"name": "1 star", "count": 5684395}, {"name": "2 star", "count": 4263296}, {"name": "3 star", "count": 7105493}, {"name": "4 star", "count": 18474283}, {"name": "5 star", "count": 106582409}]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/H9jdtLq2m58o-CDI427Htn-hI2s5lyp0G-wc_Z76eTLs5KCzS0CqzQ07h5mn4Y-p1x4",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Subway_Surfers_logo.png",
     "title": "Subway Surfers",
     "companyName": "SYBO Games",
     "id": 3,
-    "description": "Dash as fast as you can! Dodge the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
+    "description": "Subway Surfers is a classic and vibrant endless runner game that has captivated millions worldwide. The premise is simple yet addictive: you dash through a vivid and dynamic subway system, dodging oncoming trains and obstacles while being chased by a grumpy Inspector and his dog. The controls are incredibly intuitive—just swipe left, right, up, or down to navigate. The game’s fast-paced action and colorful graphics create an exhilarating experience that keeps you coming back for more, trying to beat your previous high score.\n\nThe game's enduring appeal comes from its constant stream of new content. Each month, the World Tour takes players to a new city, completely changing the visual theme and introducing new characters and hoverboards to collect. Players can grab various power-ups like jetpacks, super sneakers, and coin magnets to extend their runs and boost their scores. Daily challenges and weekly hunts provide specific goals to achieve, adding another layer of engagement beyond just endless running.\n\nFor anyone seeking a fun, fast-paced, and visually engaging mobile game, Subway Surfers is a perfect choice. It’s easy to pick up and play for a few minutes, but it has enough depth and unlockable content to keep you entertained for hours. The game is a test of reflexes and concentration, offering a satisfying sense of accomplishment as you master the tracks and climb the leaderboards. It’s a timeless classic that continues to deliver high-speed fun and adventure.",
     "size": 152,
-    "reviews": 40112345,
+    "reviews": "40.1M",
     "ratingAvg": 4.4,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 2005617 },
-      { "name": "2 star", "count": 1203370 },
-      { "name": "3 star", "count": 2406740 },
-      { "name": "4 star", "count": 5615728 },
-      { "name": "5 star", "count": 28880890 }
-    ]
+    "ratings": [{"name": "1 star", "count": 2005617}, {"name": "2 star", "count": 1203370}, {"name": "3 star", "count": 2406740}, {"name": "4 star", "count": 5615728}, {"name": "5 star", "count": 28880890}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 4,
-    "description": "Secure, smart, and easy to use email. Gmail keeps your messages safe and you organized.",
+    "description": "Gmail is a powerful and intelligent email service designed to make your communication more efficient and secure. It organizes your inbox by automatically sorting mail into categories like Primary, Social, and Promotions, helping you focus on what's important. With a generous amount of free storage, you can save years of messages and attachments without worry. The app's core principle is to keep your account safe, employing machine learning to block over 99.9% of spam, phishing, and malware from reaching your inbox.\n\nA standout feature is Gmail's deep integration with the Google Workspace ecosystem. You can start a video meeting in Google Meet or chat with a colleague in Google Chat directly from your inbox, turning Gmail into a central hub for communication. Smart features like Smart Compose and Smart Reply help you write emails faster by offering predictive text suggestions. Its powerful search functionality allows you to find any email or attachment instantly, no matter how old it is.\n\nFor anyone managing personal or professional correspondence, Gmail provides an organized, smart, and secure platform. It streamlines your workflow by reducing clutter and suggesting helpful actions, saving you time and effort. Whether you're collaborating on a project, organizing your travel plans, or simply keeping in touch, Gmail's robust feature set ensures your email experience is smooth and productive. It's an essential tool for modern communication.",
     "size": 68,
-    "reviews": 9540230,
+    "reviews": "9.5M",
     "ratingAvg": 4.3,
     "downloads": "5B+",
-    "ratings": [
-      { "name": "1 star", "count": 954023 },
-      { "name": "2 star", "count": 477011 },
-      { "name": "3 star", "count": 667816 },
-      { "name": "4 star", "count": 1431034 },
-      { "name": "5 star", "count": 6010346 }
-    ]
+    "ratings": [{"name": "1 star", "count": 954023}, {"name": "2 star", "count": 477011}, {"name": "3 star", "count": 667816}, {"name": "4 star", "count": 1431034}, {"name": "5 star", "count": 6010346}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 5,
-    "description": "Connect with friends, family and people you know. Share photos and videos, send messages and get updates.",
+    "description": "Facebook is the original social network that connects you with friends, family, and communities across the globe. Its core feature is the News Feed, a personalized stream of updates, photos, and videos from people and pages you follow. It allows you to share what's on your mind, celebrate life events, and see what's new with everyone you know. The platform is designed to help you maintain and strengthen your real-world relationships in a digital space, making it a cornerstone of modern social interaction.\n\nOne of Facebook's unique strengths is its comprehensive set of features for community building. 'Groups' allow you to connect with people who share your interests or hobbies, creating dedicated spaces for discussion and sharing. 'Events' help you discover and organize local gatherings, from concerts to community meetings. Furthermore, 'Marketplace' provides a platform for buying and selling goods within your local community. This combination of personal updates and community tools makes Facebook a multi-functional social hub.\n\nFor people looking to stay connected, Facebook offers a rich and interactive environment. It’s a place to keep up with old friends, discover local happenings, and join conversations about topics you care about. By providing tools for sharing, communication, and community engagement, the platform serves as a digital scrapbook of your life and a window into the lives of others. It remains an essential tool for navigating your social world.",
     "size": 78,
-    "reviews": 135400000,
+    "reviews": "135.4M",
     "ratingAvg": 3.8,
     "downloads": "5B+",
-    "ratings": [
-      { "name": "1 star", "count": 27080000 },
-      { "name": "2 star", "count": 10832000 },
-      { "name": "3 star", "count": 13540000 },
-      { "name": "4 star", "count": 20310000 },
-      { "name": "5 star", "count": 63638000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 27080000}, {"name": "2 star", "count": 10832000}, {"name": "3 star", "count": 13540000}, {"name": "4 star", "count": 20310000}, {"name": "5 star", "count": 63638000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/TikTok_icon_2022.svg/1200px-TikTok_icon_2022.svg.png",
     "title": "TikTok",
     "companyName": "TikTok Pte. Ltd.",
     "id": 6,
-    "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine.",
+    "description": "TikTok is the world's leading destination for short-form mobile videos. It's a platform built for creativity and discovery, offering an endless stream of entertaining, funny, and informative content. The experience is driven by its powerful 'For You' feed, which uses a sophisticated algorithm to serve up a personalized selection of videos tailored to your interests. This makes it incredibly easy to discover new creators, trends, and ideas without any effort, making every moment on the app a potential for delight and discovery.\n\nA key feature of TikTok is its user-friendly yet powerful suite of video creation tools. Anyone can become a creator with access to a massive library of songs and sounds, along with a wide array of effects, filters, and AR features. This accessibility has empowered a new generation of storytellers and entertainers, allowing trends to emerge and spread globally in a matter of hours. The platform's format encourages authenticity and spontaneity, making the content feel genuine and relatable.\n\nFor those seeking entertainment, inspiration, or a platform for self-expression, TikTok offers an unparalleled experience. It has redefined culture by providing a stage for raw talent and creativity to shine. Whether you're looking for quick laughs, life hacks, dance challenges, or educational tidbits, the app provides a constant source of fresh and engaging content. It is a cultural phenomenon that has changed the way we create and consume video.",
     "size": 95,
-    "reviews": 50200000,
+    "reviews": "50.2M",
     "ratingAvg": 4.6,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 2510000 },
-      { "name": "2 star", "count": 1506000 },
-      { "name": "3 star", "count": 2510000 },
-      { "name": "4 star", "count": 6024000 },
-      { "name": "5 star", "count": 37650000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 2510000}, {"name": "2 star", "count": 1506000}, {"name": "3 star", "count": 2510000}, {"name": "4 star", "count": 6024000}, {"name": "5 star", "count": 37650000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2048px-X_logo_2023.svg.png",
     "title": "X (formerly Twitter)",
     "companyName": "X Corp.",
     "id": 7,
-    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+    "description": "X is the real-time information network where you can see what's happening in the world and join the public conversation. It's a platform defined by brevity and immediacy, where users share short updates, news, and opinions. The timeline is a constantly flowing stream of information, from breaking news headlines to commentary from public figures and everyday people. This makes it an indispensable tool for staying informed on events as they unfold, providing a raw and unfiltered look at global happenings.\n\nA unique feature of X is its role as a global town square. Hashtags organize conversations around specific topics, allowing users to tap into trending discussions and events instantly. 'Spaces' provide a venue for live audio conversations, enabling more nuanced and interactive discussions. The platform's open nature means you can follow and interact with anyone, from world leaders and journalists to celebrities and experts in any field, giving you direct access to a wide range of perspectives.\n\nFor people who want to stay on the pulse of the world, X is the ultimate resource. It’s where news breaks first and where global conversations take shape. By combining instant updates with public discourse, the app allows you to not only consume information but also participate in the dialogue. Whether you're following sports, politics, tech, or entertainment, X provides a dynamic and fast-paced environment to learn, share, and engage with what's happening right now.",
     "size": 110,
-    "reviews": 25000000,
+    "reviews": "25M",
     "ratingAvg": 4.1,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 2750000 },
-      { "name": "2 star", "count": 1250000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 13500000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 2750000}, {"name": "2 star", "count": 1250000}, {"name": "3 star", "count": 2500000}, {"name": "4 star", "count": 5000000}, {"name": "5 star", "count": 13500000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/1200px-Snapchat_logo.svg.png",
     "title": "Snapchat",
     "companyName": "Snap Inc",
     "id": 8,
-    "description": "Share the moment! Snap a pic or a video, add a caption, and send it to your best friends and family.",
+    "description": "Snapchat is a unique social platform centered on ephemeral messaging and visual communication. It opens right to the camera, encouraging users to share moments as they happen through 'Snaps'—photos or short videos that disappear after being viewed. This focus on temporary sharing creates a low-pressure environment for communication, making interactions feel more spontaneous and authentic. It's designed to help you communicate with your close friends in a fun, fast, and expressive way, mirroring how you interact in real life.\n\nThe app's most iconic feature is its vast collection of augmented reality 'Lenses' and creative 'Filters'. These tools transform your appearance, overlay fun graphics, and allow for a new level of creative self-expression. Beyond Snaps, you can share a collection of moments in your 'Story,' which is visible to your friends for 24 hours. The 'Snap Map' lets you see where your friends are and what they're up to (if they choose to share their location), adding a layer of real-world connection to the digital experience.\n\nFor those who prioritize fun and creative communication with their inner circle, Snapchat is the perfect tool. It’s less about public broadcasting and more about sharing personal, in-the-moment experiences. By combining disappearing messages with powerful AR tools and location sharing, Snapchat provides a dynamic and playful way to stay connected. It’s a platform that values authenticity and helps you share the real you with the people who matter most.",
     "size": 75,
-    "reviews": 30500000,
+    "reviews": "30.5M",
     "ratingAvg": 4.5,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 1525000 },
-      { "name": "2 star", "count": 915000 },
-      { "name": "3 star", "count": 1830000 },
-      { "name": "4 star", "count": 4575000 },
-      { "name": "5 star", "count": 21655000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 1525000}, {"name": "2 star", "count": 915000}, {"name": "3 star", "count": 1830000}, {"name": "4 star", "count": 4575000}, {"name": "5 star", "count": 21655000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 9,
-    "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
+    "description": "Telegram is a cloud-based instant messaging app renowned for its focus on speed, security, and versatility. It offers end-to-end encrypted 'Secret Chats' and ensures all other communications are heavily encrypted and stored in a secure, distributed cloud. This allows for seamless and instant synchronization of your messages across all your devices—phone, tablet, and desktop. The app is designed to be lightweight and fast, delivering messages more quickly than any other application, even on weak mobile connections.\n\nA key differentiator for Telegram is its powerful features for groups and communities. It supports 'Groups' with up to 200,000 members and 'Channels' for broadcasting messages to an unlimited audience, making it a favorite for large communities and organizations. The platform also allows users to send any type of file up to 2 GB in size, and its open API supports a thriving ecosystem of third-party bots that can perform a wide range of automated tasks, from providing news updates to playing games.\n\nFor users who value privacy, speed, and powerful features, Telegram is an exceptional choice. It offers a secure alternative to other messaging apps without compromising on functionality. Whether you're having a private conversation, managing a large online community, or sharing large files, Telegram provides a robust and reliable platform. It’s a tool built for power users who demand more from their messaging app, combining top-tier security with unmatched performance.",
     "size": 45,
-    "reviews": 15000000,
+    "reviews": "15M",
     "ratingAvg": 4.5,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 750000 },
-      { "name": "2 star", "count": 450000 },
-      { "name": "3 star", "count": 900000 },
-      { "name": "4 star", "count": 2250000 },
-      { "name": "5 star", "count": 10650000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 750000}, {"name": "2 star", "count": 450000}, {"name": "3 star", "count": 900000}, {"name": "4 star", "count": 2250000}, {"name": "5 star", "count": 10650000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png",
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
     "id": 10,
-    "description": "Listen to albums, playlists, or single songs for free on mobile and tablet. Discover a world of music.",
+    "description": "Spotify is a comprehensive audio streaming service that gives you access to a massive world of music and podcasts. With millions of tracks from artists all over the globe, it allows you to listen to your favorite songs, discover new music, and create personalized playlists for any mood or moment. The service is built around discovery, helping you find your next favorite song or podcast with ease. Its clean interface and reliable performance make it a leading choice for audio streaming.\n\nThe app's standout feature is its powerful personalization engine. Curated playlists like 'Discover Weekly' and 'Release Radar' are tailored specifically to your listening habits, introducing you to new music you're likely to love. You can also create collaborative playlists with friends, see what others are listening to, and use Spotify Connect to seamlessly switch playback between your phone, speaker, and other devices. The platform is also a major destination for podcasts, offering a vast library of shows on every topic imaginable.\n\nFor music lovers and podcast enthusiasts, Spotify is an essential service. It’s a gateway to an almost infinite library of audio content, all organized and personalized for you. Whether you're looking for the perfect workout playlist, a podcast for your commute, or just want to explore new genres, Spotify provides the tools to soundtrack your life. It's a personal DJ that understands your taste and constantly helps you discover more of what you love.",
     "size": 80,
-    "reviews": 28000000,
+    "reviews": "28M",
     "ratingAvg": 4.7,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 840000 },
-      { "name": "2 star", "count": 560000 },
-      { "name": "3 star", "count": 1120000 },
-      { "name": "4 star", "count": 3360000 },
-      { "name": "5 star", "count": 22120000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 840000}, {"name": "2 star", "count": 560000}, {"name": "3 star", "count": 1120000}, {"name": "4 star", "count": 3360000}, {"name": "5 star", "count": 22120000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 11,
-    "description": "Watch TV shows and movies recommended just for you, including award-winning Netflix original series.",
+    "description": "Netflix is a leading subscription-based streaming service that offers a vast library of TV shows, movies, documentaries, and anime across a wide variety of genres. It provides on-demand, ad-free viewing, allowing you to watch as much as you want, whenever you want. The platform is designed for a personalized and cinematic experience, bringing a world of entertainment directly to your favorite screen, whether it's a TV, laptop, or mobile device. Its intuitive interface makes browsing and discovering content simple and enjoyable.\n\nA key strength of Netflix is its massive investment in award-winning original content. 'Netflix Originals' include some of the most talked-about series and films, offering exclusive programming you can't find anywhere else. The service's recommendation algorithm is highly sophisticated, learning your viewing habits to suggest titles you're likely to enjoy. Features like multiple user profiles, parental controls, and the ability to download content for offline viewing make it a versatile and family-friendly entertainment hub.\n\nFor anyone seeking high-quality, on-demand entertainment, Netflix is an essential subscription. It has fundamentally changed how we watch television and movies, offering freedom and choice to the viewer. With a constantly updated library and a steady stream of exclusive new releases, there's always something new to discover. It’s your personal cinema, ready to play your next favorite show or movie at the touch of a button.",
     "size": 60,
-    "reviews": 12000000,
+    "reviews": "12M",
     "ratingAvg": 4.4,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 720000 },
-      { "name": "2 star", "count": 480000 },
-      { "name": "3 star", "count": 840000 },
-      { "name": "4 star", "count": 1800000 },
-      { "name": "5 star", "count": 8160000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 720000}, {"name": "2 star", "count": 480000}, {"name": "3 star", "count": 840000}, {"name": "4 star", "count": 1800000}, {"name": "5 star", "count": 8160000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 12,
-    "description": "Watch, stream, and discover what the world is watching. From the biggest names to the hottest trends.",
+    "description": "YouTube is the world's largest online video platform, offering a universe of content created by individuals and organizations from around the globe. It's a place to be entertained, educated, and inspired, with videos on virtually any topic imaginable. From music videos and vlogs to DIY tutorials and educational lectures, YouTube is a primary source of information and entertainment for billions. Its core mission is to give everyone a voice and show them the world.\n\nA unique aspect of YouTube is its thriving creator ecosystem. The platform provides tools for anyone to upload, share, and monetize their video content, which has given rise to a new generation of digital creators and influencers. The recommendation algorithm helps viewers discover content tailored to their interests, while features like live streaming, 'Shorts' for short-form video, and community posts allow for deeper engagement between creators and their audiences. This makes YouTube a dynamic and interactive community, not just a passive viewing experience.\n\nFor anyone with a curious mind, YouTube is an endless resource. It's a library, a concert hall, a classroom, and a stage all in one. Whether you want to learn a new skill, follow your favorite artists, or just relax with entertaining content, the platform has something for you. By democratizing video creation and distribution, YouTube has become an essential part of modern culture and a powerful platform for learning and connection.",
     "size": 120,
-    "reviews": 150000000,
+    "reviews": "150M",
     "ratingAvg": 4.5,
     "downloads": "10B+",
-    "ratings": [
-      { "name": "1 star", "count": 7500000 },
-      { "name": "2 star", "count": 4500000 },
-      { "name": "3 star", "count": 9000000 },
-      { "name": "4 star", "count": 22500000 },
-      { "name": "5 star", "count": 106500000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 7500000}, {"name": "2 star", "count": 4500000}, {"name": "3 star", "count": 9000000}, {"name": "4 star", "count": 22500000}, {"name": "5 star", "count": 106500000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Maps_icon_%282020%29.svg/2048px-Google_Maps_icon_%282020%29.svg.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 13,
-    "description": "Navigate your world faster and easier with Google Maps. Get real-time GPS navigation, traffic, and transit info.",
+    "description": "Google Maps is a comprehensive and indispensable tool for navigating and exploring the world. It provides detailed maps of over 220 countries and territories, offering real-time GPS navigation to help you get from one place to another efficiently. The app gives you turn-by-turn directions for driving, walking, cycling, and public transit, making it an essential companion for daily commutes and travel adventures alike. Its purpose is to make navigation faster, easier, and more intuitive for everyone.\n\nThe app's power lies in its rich layers of real-time information. It provides live traffic updates to help you avoid congestion and find the fastest route. It also offers detailed information about millions of businesses and places of interest, including opening hours, photos, and reviews from other users. Unique features like 'Street View' provide a 360-degree panoramic view of locations, while satellite imagery offers a top-down perspective of the entire planet. This wealth of data turns the app into a powerful exploration tool.\n\nFor anyone who needs to get around or discover new places, Google Maps is an essential utility. It takes the stress out of travel by providing clear, reliable directions and up-to-the-minute information. Whether you're finding the quickest way to a meeting, looking for a nearby restaurant, or planning a cross-country trip, Google Maps provides the intelligence and context you need to navigate your world with confidence. It's more than a map; it's your personal guide to the world.",
     "size": 90,
-    "reviews": 20000000,
+    "reviews": "20M",
     "ratingAvg": 4.6,
     "downloads": "10B+",
-    "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 14400000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 1000000}, {"name": "2 star", "count": 600000}, {"name": "3 star", "count": 1000000}, {"name": "4 star", "count": 3000000}, {"name": "5 star", "count": 14400000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/2295px-Google_Drive_icon_%282020%29.svg.png",
     "title": "Google Drive",
     "companyName": "Google LLC",
     "id": 14,
-    "description": "A safe place for all your files. Get started with 15 GB of free Google online storage.",
+    "description": "Google Drive is a secure cloud storage service that provides a safe home for all your files. It allows you to store, share, and access your photos, documents, videos, and other files from any device, anywhere in the world. With a generous amount of free storage, it offers a convenient way to back up your important data and free up space on your devices. The service is designed to be a central hub for your digital life, keeping everything organized and easily accessible.\n\nA key feature of Google Drive is its seamless integration with Google's suite of productivity apps, including Docs, Sheets, and Slides. This allows for powerful real-time collaboration, where multiple people can work on the same document simultaneously. The platform's advanced search capabilities can recognize content within your files, including text in images and PDFs, making it incredibly easy to find what you're looking for. Sharing files and folders with others is simple and secure, with granular controls over who can view, comment on, or edit your content.\n\nFor individuals and teams who need to manage and collaborate on digital files, Google Drive is an essential tool. It eliminates the need for physical storage devices and makes sharing information effortless. Whether you're working on a team project, sharing family photos, or simply backing up your phone, Google Drive provides a reliable and intelligent solution. It’s your personal, secure cloud that keeps all your files safe and within reach.",
     "size": 70,
-    "reviews": 8000000,
+    "reviews": "8M",
     "ratingAvg": 4.8,
     "downloads": "5B+",
-    "ratings": [
-      { "name": "1 star", "count": 160000 },
-      { "name": "2 star", "count": 80000 },
-      { "name": "3 star", "count": 240000 },
-      { "name": "4 star", "count": 800000 },
-      { "name": "5 star", "count": 6720000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 160000}, {"name": "2 star", "count": 80000}, {"name": "3 star", "count": 240000}, {"name":"4 star", "count": 800000}, {"name": "5 star", "count": 6720000}]
   },
   {
-    "image": "https://media.licdn.com/dms/image/D560BAQHYJ1m-a1wV2w/company-logo_200_200/0/1718090726615/bkash_logo?e=2147483647&v=beta&t=l3zJ7Ea1-87p4oRz7qUu15UuJ7R9gH1fE8wI3fT9yX8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/New_bKash_Logo.svg/1200px-New_bKash_Logo.svg.png",
     "title": "bKash",
     "companyName": "bKash Limited",
     "id": 15,
-    "description": "The leading mobile financial service in Bangladesh, offering a broad range of payment services and money transfer.",
+    "description": "bKash is the leading mobile financial service in Bangladesh, revolutionizing the way people handle money. It provides a secure and convenient platform for conducting a wide range of financial transactions directly from a mobile phone. The service is designed to be accessible to everyone, regardless of whether they have a traditional bank account, thereby promoting financial inclusion across the country. Its primary goal is to make financial services simple, allowing users to manage their money with just a few taps.\n\nThe app offers a comprehensive suite of services essential for daily life. Users can send and receive money instantly, recharge their mobile balance, and pay utility bills for electricity, gas, and internet. A key feature is the ability to make payments at thousands of stores and businesses by scanning a QR code, reducing the need to carry cash. The app also allows users to cash out money from a vast network of agents located throughout the country, ensuring easy access to physical currency when needed.\n\nFor anyone living in Bangladesh, bKash is an essential tool for modern financial management. It simplifies everyday transactions, making them faster, safer, and more efficient. By providing a reliable digital wallet, the app empowers users to take control of their finances and participate in the growing digital economy. It is more than just a payment app; it is a catalyst for change, driving the nation towards a cashless society.",
     "size": 50,
-    "reviews": 1500000,
+    "reviews": "1.5M",
     "ratingAvg": 4.5,
     "downloads": "100M+",
-    "ratings": [
-      { "name": "1 star", "count": 75000 },
-      { "name": "2 star", "count": 45000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 225000 },
-      { "name": "5 star", "count": 1065000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 75000}, {"name": "2 star", "count": 45000}, {"name": "3 star", "count": 90000}, {"name": "4 star", "count": 225000}, {"name": "5 star", "count": 1065000}]
   },
   {
-    "image": "https://static-images.daraz.com.bd/images/ims-plogo/daraz_500x500_01.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Daraz_logo.svg/2560px-Daraz_logo.svg.png",
     "title": "Daraz Online Shopping App",
     "companyName": "Daraz",
     "id": 16,
-    "description": "The leading online shopping platform in South Asia, offering a wide variety of products.",
+    "description": "Daraz is a leading online shopping platform in South Asia, offering a massive marketplace at your fingertips. It provides access to a wide variety of products across numerous categories, including electronics, fashion, home goods, and groceries. The app is designed to be a one-stop shop for all your needs, bringing the experience of a giant shopping mall directly to your mobile device. Its main purpose is to make shopping more convenient, accessible, and enjoyable for everyone.\n\nA key feature of Daraz is its focus on providing an authentic and trustworthy shopping experience. 'DarazMall' features official stores from hundreds of local and international brands, ensuring you get genuine products. The platform frequently hosts major sales events, flash deals, and offers exclusive vouchers, allowing customers to get the best prices. User reviews and ratings provide valuable insights to help you make informed purchasing decisions, while secure payment options and a clear return policy build customer confidence.\n\nFor anyone looking for a convenient and reliable online shopping experience, Daraz is the go-to platform in its region. It saves you the time and effort of traditional shopping by offering a vast selection and delivering products directly to your doorstep. Whether you're searching for the latest gadgets, trendy apparel, or everyday essentials, Daraz provides a seamless and feature-rich app to discover and purchase what you need.",
     "size": 65,
-    "reviews": 2000000,
+    "reviews": "2M",
     "ratingAvg": 4.3,
     "downloads": "50M+",
-    "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 100000 },
-      { "name": "3 star", "count": 140000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 1260000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 200000}, {"name": "2 star", "count": 100000}, {"name": "3 star", "count": 140000}, {"name": "4 star", "count": 300000}, {"name": "5 star", "count": 1260000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png",
     "title": "LinkedIn: Jobs & Business News",
     "companyName": "LinkedIn",
     "id": 17,
-    "description": "Find jobs, connect with professionals, and build your career. Your professional network starts here.",
+    "description": "LinkedIn is the world's largest professional network, designed to help you manage your career and connect with other professionals. It serves as your digital resume, allowing you to create a detailed professional profile that showcases your skills, experience, and education. The platform's core purpose is to facilitate networking, career development, and knowledge sharing within a professional context. It's an essential tool for anyone serious about building and maintaining their professional identity.\n\nThe app offers a powerful suite of tools for career growth. Its job search functionality allows you to find and apply for opportunities tailored to your skills and interests. The news feed provides relevant articles, industry insights, and updates from connections and companies you follow, helping you stay informed. A key feature is the ability to receive and give skill endorsements and recommendations, which adds credibility to your profile. Furthermore, LinkedIn Learning offers thousands of online courses to help you acquire new skills.\n\nFor professionals at any stage of their career, LinkedIn is an indispensable resource. It's a place to build your network, search for your next job, and establish yourself as an expert in your field. By combining professional networking with a job marketplace and an educational platform, LinkedIn provides a comprehensive ecosystem for career management. It empowers you to connect with opportunity and achieve your professional goals.",
     "size": 88,
-    "reviews": 3000000,
+    "reviews": "3M",
     "ratingAvg": 4.6,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 90000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 450000 },
-      { "name": "5 star", "count": 2160000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 150000}, {"name": "2 star", "count": 90000}, {"name": "3 star", "count": 150000}, {"name": "4 star", "count": 450000}, {"name": "5 star", "count": 2160000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
     "title": "Pinterest",
     "companyName": "Pinterest",
     "id": 18,
-    "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+    "description": "Pinterest is a visual discovery engine designed to help you find and save creative ideas for all your projects and interests. It functions like a digital scrapbook or mood board, where you discover visual bookmarks called 'Pins' and organize them onto 'Boards'. Whether you're planning a home renovation, searching for new recipes, or looking for style inspiration, Pinterest provides an endless stream of visual ideas. Its purpose is to inspire you to go out and do the things you love.\n\nA unique feature of Pinterest is its powerful visual search technology. You can use your camera to search for visually similar products or ideas in the real world. The platform is highly personalized, with a home feed that learns your tastes and shows you new Pins it thinks you'll like. Many Pins are shoppable, allowing you to buy products directly from the images that inspire you. This seamless integration of discovery and action makes it a powerful tool for planning and purchasing.\n\nFor anyone looking for inspiration, Pinterest is a treasure trove of creativity. It’s a positive and uplifting space to discover new hobbies, plan future projects, and save ideas for later. By focusing on visual discovery, the app helps you explore your interests in a more intuitive and engaging way. It's a tool that helps you turn inspiration into reality, one Pin at a time.",
     "size": 72,
-    "reviews": 11000000,
+    "reviews": "11M",
     "ratingAvg": 4.7,
     "downloads": "500M+",
-    "ratings": [
-      { "name": "1 star", "count": 330000 },
-      { "name": "2 star", "count": 220000 },
-      { "name": "3 star", "count": 440000 },
-      { "name": "4 star", "count": 1210000 },
-      { "name": "5 star", "count": 8800000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 330000}, {"name": "2 star", "count": 220000}, {"name": "3 star", "count": 440000}, {"name": "4 star", "count": 1210000}, {"name": "5 star", "count": 8800000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Discord_logo_wordmark.svg/2560px-Discord_logo_wordmark.svg.png",
     "title": "Discord: Talk, Chat & Hang Out",
     "companyName": "Discord Inc.",
     "id": 19,
-    "description": "Your place to talk. Whether you’re part of a school club, gaming group, or a worldwide art community.",
+    "description": "Discord is an all-in-one communication platform that combines the functionality of voice calls, video calls, and text chat into a single, cohesive app. It's organized into communities called 'servers,' which are dedicated spaces where you can hang out with friends or connect with people who share your interests. Originally popular with gamers, Discord has grown into a versatile tool for any type of community, from school clubs and art groups to study sessions and software development projects. Its goal is to create a place where everyone can belong.\n\nThe app's strength lies in its high-quality, low-latency voice communication. Voice channels allow users to drop in and out of conversations effortlessly, simulating the experience of being in the same room. Discord also offers robust text channels for organized discussions, screen sharing for collaboration or streaming, and powerful role and permission management to keep servers well-moderated. The platform supports a vast ecosystem of bots that can add new features like music, games, and server management tools.\n\nFor any group of people who want a dedicated space to communicate and hang out, Discord is the perfect solution. It offers a more organized and feature-rich alternative to standard group chats. Whether you're coordinating in a fast-paced game, hosting a virtual book club, or collaborating on a project, Discord provides the tools you need to connect effectively. It's a customizable and powerful hub for building and nurturing online communities.",
     "size": 130,
-    "reviews": 6000000,
+    "reviews": "6M",
     "ratingAvg": 4.5,
     "downloads": "500M+",
-    "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 180000 },
-      { "name": "3 star", "count": 360000 },
-      { "name": "4 star", "count": 900000 },
-      { "name": "5 star", "count": 4260000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 300000}, {"name": "2 star", "count": 180000}, {"name": "3 star", "count": 360000}, {"name": "4 star", "count": 900000}, {"name": "5 star", "count": 4260000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zoom_Communications_Logo.svg/2560px-Zoom_Communications_Logo.svg.png",
     "title": "Zoom - One Platform to Connect",
     "companyName": "zoom.us",
     "id": 20,
-    "description": "Work from anywhere with a single app that combines team chat, phone, whiteboard, meetings, and more.",
+    "description": "Zoom is a leading video conferencing platform that enables seamless communication and collaboration for individuals and businesses. It provides reliable and high-quality video and audio meetings, making it an essential tool for remote work, online learning, and virtual events. The platform is designed to be easy to use, allowing anyone to start or join a meeting with just a few clicks. Its core function is to bring people together face-to-face, regardless of their physical location.\n\nThe app is packed with features designed to make online meetings more productive and engaging. Key functionalities include screen sharing for presentations, virtual backgrounds to maintain privacy or add a bit of fun, and recording capabilities to save meetings for later review. For larger gatherings, Zoom offers 'breakout rooms' to split participants into smaller groups for discussion and 'webinar' tools for hosting presentations to a large audience. The platform also includes team chat for persistent messaging outside of meetings.\n\nFor anyone who needs to connect with others remotely, Zoom offers a robust and dependable solution. It has become a vital piece of infrastructure for modern business and education, facilitating clear communication and effective collaboration. Whether you're conducting a team meeting, teaching a class, or catching up with family, Zoom provides a stable and feature-rich environment to connect. It is the go-to platform for virtual interaction in a connected world.",
     "size": 98,
-    "reviews": 2500000,
+    "reviews": "2.5M",
     "ratingAvg": 4.2,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 250000 },
-      { "name": "2 star", "count": 125000 },
-      { "name": "3 star", "count": 200000 },
-      { "name": "4 star", "count": 375000 },
-      { "name": "5 star", "count": 1550000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 250000}, {"name": "2 star", "count": 125000}, {"name": "3 star", "count": 200000}, {"name": "4 star", "count": 375000}, {"name": "5 star", "count": 1550000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
     "id": 21,
-    "description": "Browse, search, get product details, read reviews, and purchase millions of products.",
+    "description": "The Amazon Shopping app is your gateway to one of the world's largest online retailers, offering a massive selection of millions of products. It allows you to browse, search, and purchase items across a vast range of categories, from electronics and books to clothing and household goods. The app is designed to provide a fast, convenient, and secure shopping experience, putting a global marketplace in the palm of your hand. Its primary goal is to make it easy for you to find and buy whatever you need.\n\nA key feature of the Amazon experience is its powerful recommendation engine and customer-centric features. The app provides personalized product suggestions based on your browsing and purchase history. Customer reviews and ratings offer valuable social proof to help you make confident buying decisions. For 'Prime' members, the app unlocks benefits like fast, free shipping on eligible items and access to other Amazon services. Features like wish lists, order tracking, and Subscribe & Save for recurring purchases further streamline the shopping process.\n\nFor the modern consumer, the Amazon Shopping app is an essential tool. It offers unparalleled convenience and selection, saving you time and often money. Whether you're comparison shopping with the barcode scanner, managing your orders on the go, or simply browsing for deals, the app provides a comprehensive and user-friendly platform. It's a one-stop shop that has redefined the standards of online retail.",
     "size": 82,
-    "reviews": 9000000,
+    "reviews": "9M",
     "ratingAvg": 4.4,
     "downloads": "500M+",
-    "ratings": [
-      { "name": "1 star", "count": 540000 },
-      { "name": "2 star", "count": 360000 },
-      { "name": "3 star", "count": 630000 },
-      { "name": "4 star", "count": 1350000 },
-      { "name": "5 star", "count": 6120000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 540000}, {"name": "2 star", "count": 360000}, {"name": "3 star", "count": 630000}, {"name": "4 star", "count": 1350000}, {"name": "5 star", "count": 6120000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Candy_Crush_Saga_icon.png",
     "title": "Candy Crush Saga",
     "companyName": "King",
     "id": 22,
-    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players.",
+    "description": "Candy Crush Saga is a legendary match-three puzzle game that has delighted millions of players with its sweet and addictive gameplay. The objective is to swap and match colorful candies to create lines of three or more, clearing levels and progressing through a whimsical candy kingdom. The game is easy to learn, with simple swipe controls, but its challenges become increasingly complex, requiring strategic thinking and careful planning. It’s a perfect blend of casual fun and brain-teasing puzzles.\n\nThe game's enduring popularity is due to its thousands of levels and constant introduction of new mechanics and obstacles. Special candies, created by matching four or five candies, produce spectacular board-clearing effects. Power-ups and boosters are available to help you get through particularly tricky levels. The game also has a social element, allowing you to connect with friends, compare scores, and send each other lives, adding a layer of friendly competition.\n\nFor anyone looking for a fun and engaging puzzle game, Candy Crush Saga is a timeless classic. It provides a satisfying and relaxing experience, perfect for playing in short bursts or for longer sessions. The colorful graphics, cheerful sound effects, and sense of accomplishment from clearing a difficult level make it a highly rewarding game. It's a sweet escape that offers endless hours of puzzle-solving fun.",
     "size": 115,
-    "reviews": 35000000,
+    "reviews": "35M",
     "ratingAvg": 4.6,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 1750000 },
-      { "name": "2 star", "count": 1050000 },
-      { "name": "3 star", "count": 1750000 },
-      { "name": "4 star", "count": 5250000 },
-      { "name": "5 star", "count": 25200000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 1750000}, {"name": "2 star", "count": 1050000}, {"name": "3 star", "count": 1750000}, {"name": "4 star", "count": 5250000}, {"name": "5 star", "count": 25200000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/PUBG_Mobile.png/330px-PUBG_Mobile.png",
     "title": "PUBG MOBILE",
     "companyName": "Level Infinite",
     "id": 23,
-    "description": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile.",
+    "description": "PUBG MOBILE is the official mobile version of the genre-defining battle royale game, PLAYERUNKNOWN'S BATTLEGROUNDS. It drops 100 players onto a remote island for a winner-takes-all showdown where strategic gameplay is as important as shooting skills. Players must locate and scavenge their own weapons, vehicles, and supplies, and defeat every player in a graphically and tactically rich battleground that shrinks over time. The game is designed to deliver the most intense free-to-play multiplayer action on mobile.\n\nThe game's standout feature is its realistic and immersive gameplay. It boasts console-quality graphics powered by Unreal Engine 4, detailed maps, and realistic weapon mechanics, creating a deeply engaging combat experience. Beyond the classic 100-player mode, PUBG MOBILE offers a variety of other modes, including fast-paced 4v4 team deathmatches and zombie modes. The game supports solo, duo, and 4-player squad gameplay, with in-game voice chat to coordinate strategy with your team.\n\nFor fans of competitive action and tactical shooters, PUBG MOBILE offers an unparalleled experience on the go. It’s a game that rewards teamwork, strategy, and quick thinking. The thrill of being the last one standing provides an incredible adrenaline rush that keeps players coming back. With regular updates introducing new maps, modes, and content, the game remains a fresh and challenging battleground for players worldwide.",
     "size": 750,
-    "reviews": 50000000,
+    "reviews": "50M",
     "ratingAvg": 4.3,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 5000000 },
-      { "name": "2 star", "count": 2500000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 7500000 },
-      { "name": "5 star", "count": 31500000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 5000000}, {"name": "2 star", "count": 2500000}, {"name": "3 star", "count": 3500000}, {"name": "4 star", "count": 7500000}, {"name": "5 star", "count": 31500000}]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microsoft_Word_logo_%282013-2019%29.svg/2491px-Microsoft_Word_logo_%282013-2019%29.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png",
     "title": "Microsoft Word",
     "companyName": "Microsoft Corporation",
     "id": 24,
-    "description": "The trusted Word app lets you create, edit, view, and share your files with others quickly and easily.",
+    "description": "Microsoft Word is the industry-standard application for creating, editing, and sharing professional-quality documents. It provides a comprehensive set of tools for writing and formatting text, making it the go-to software for students, professionals, and writers. Whether you're drafting a simple letter, a complex academic paper, or a polished resume, Word offers the features you need to present your ideas clearly and effectively. Its familiar interface ensures that users can work efficiently and confidently.\n\nThe app's power lies in its rich feature set for document creation. It includes a wide range of templates to get you started quickly, along with advanced formatting options for fonts, paragraphs, and page layouts. Key features include real-time collaboration, allowing multiple users to work on a document simultaneously, and a robust commenting and change-tracking system for easy reviewing. Integration with OneDrive cloud storage means your documents are saved automatically and accessible from any device.\n\nFor anyone who works with written documents, Microsoft Word is an essential tool. It simplifies the process of writing, editing, and formatting, allowing you to focus on your content while producing a professional-looking result. Its versatility makes it suitable for any task, from a one-page memo to a full-length book. Word is the trusted choice for creating polished, impactful, and error-free documents.",
     "size": 125,
-    "reviews": 6000000,
+    "reviews": "6M",
     "ratingAvg": 4.7,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 180000 },
-      { "name": "2 star", "count": 120000 },
-      { "name": "3 star", "count": 240000 },
-      { "name": "4 star", "count": 720000 },
-      { "name": "5 star", "count": 4740000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 180000}, {"name": "2 star", "count": 120000}, {"name": "3 star", "count": 240000}, {"name": "4 star", "count": 720000}, {"name": "5 star", "count": 4740000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_Acrobat_Reader_DC_icon.svg/2048px-Adobe_Acrobat_Reader_DC_icon.svg.png",
     "title": "Adobe Acrobat Reader: Edit PDF",
     "companyName": "Adobe",
     "id": 25,
-    "description": "The most reliable PDF viewer and editor. View, share, annotate, and add e-signatures to PDF documents.",
+    "description": "Adobe Acrobat Reader is the global standard for reliably viewing, signing, and commenting on PDF documents. As the free, trusted leader, it provides the best way to interact with all types of PDF content. The app ensures that your documents look the same on every screen, preserving fonts, images, and layout, which is crucial for professional and academic work. It's the essential tool for anyone who needs to open and read PDF files, which have become a universal format for document sharing.\n\nThe app goes far beyond simple viewing. You can use it to fill out and sign forms electronically, eliminating the need for printing and scanning. A key feature is its powerful commenting and annotation tools, allowing you to add sticky notes, highlight text, and draw directly on the PDF for easy collaboration and review. The 'Liquid Mode' feature provides a revolutionary reading experience on mobile devices by automatically reformatting the PDF text for your screen, making it easier to read on small displays.\n\nFor anyone working in a digital environment, Adobe Acrobat Reader is an indispensable utility. It provides a secure and reliable way to manage important documents, from contracts and reports to articles and e-books. By offering robust tools for viewing, signing, and annotating, the app streamlines workflows and improves productivity. It is the most trusted and feature-rich solution for interacting with the world's most popular document format.",
     "size": 150,
-    "reviews": 3000000,
+    "reviews": "3M",
     "ratingAvg": 4.6,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 150000 },
-      { "name": "2 star", "count": 90000 },
-      { "name": "3 star", "count": 150000 },
-      { "name": "4 star", "count": 450000 },
-      { "name": "5 star", "count": 2160000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 150000}, {"name": "2 star", "count": 90000}, {"name": "3 star", "count": 150000}, {"name": "4 star", "count": 450000}, {"name": "5 star", "count": 2160000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dropbox_logo_2017.svg/2560px-Dropbox_logo_2017.svg.png",
     "title": "Dropbox: Cloud Photo Storage",
     "companyName": "Dropbox, Inc.",
     "id": 26,
-    "description": "Let anyone upload and transfer files to your cloud and access them anytime, anywhere.",
+    "description": "Dropbox is a modern workspace designed to reduce busywork, bringing your cloud content and traditional files together in one central place. It provides a reliable solution for cloud storage, file synchronization, and sharing, allowing you to keep all your important files safe and accessible. Whether it's photos, videos, or documents, Dropbox creates a synchronized folder that you can access from your computer, phone, or any web browser. It simplifies your digital life by creating one organized home for your content.\n\nA key feature of Dropbox is its simplicity and reliability in file syncing. Any change you make to a file in your Dropbox is automatically updated across all your devices. The app includes a document scanner to turn receipts and whiteboards into PDFs, and an automatic camera upload feature to back up photos and videos from your phone. Sharing files is secure and easy, allowing you to send large files to anyone, even if they don't have a Dropbox account, with a simple link.\n\nFor individuals and teams looking to stay organized and collaborative, Dropbox is a powerful tool. It provides peace of mind by securely backing up your most important files and making them available whenever you need them. By streamlining file management and sharing, it allows you to focus on the work that matters. Dropbox is your personal cloud that keeps you in sync and helps you work smarter.",
     "size": 92,
-    "reviews": 2000000,
+    "reviews": "2M",
     "ratingAvg": 4.5,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 1420000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 100000}, {"name": "2 star", "count": 60000}, {"name": "3 star", "count": 120000}, {"name": "4 star", "count": 300000}, {"name": "5 star", "count": 1420000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png",
     "title": "Shazam: Find Music",
     "companyName": "Apple Inc.",
     "id": 27,
-    "description": "Identify songs, find music, and discover the lyrics for all your favorite tracks.",
+    "description": "Shazam is a magical app that can identify almost any song playing in your environment in just a few seconds. It answers the common question, 'What's that song?' with incredible speed and accuracy. By simply opening the app and letting it listen, you can discover the title, artist, and lyrics of the music around you. It's an essential tool for music lovers and anyone who is curious about the soundtrack of their world, from songs on the radio to music in a cafe or movie.\n\nA key feature of Shazam is its deep integration with major music streaming services. Once a song is identified, you can instantly open it in Spotify or Apple Music to listen to the full track, add it to a playlist, or watch the music video on YouTube. The app keeps a history of all your Shazams, so you can always revisit the songs you've discovered. It even works offline by saving a digital fingerprint of the audio and identifying it once you're back online.\n\nFor music discovery, Shazam is an unparalleled tool. It instantly connects you with the music you hear and want to remember, bridging the gap between passive listening and active engagement. By making song identification effortless, the app helps you build your music library and explore new artists. It's a must-have utility for anyone who loves music and never wants to let a great song slip away.",
     "size": 40,
-    "reviews": 4000000,
+    "reviews": "4M",
     "ratingAvg": 4.8,
     "downloads": "500M+",
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 3360000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 80000}, {"name": "2 star", "count": 40000}, {"name": "3 star", "count": 120000}, {"name": "4 star", "count": 400000}, {"name": "5 star", "count": 3360000}]
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Picsart_logo.png",
     "title": "Picsart AI Photo Editor, Video",
     "companyName": "PicsArt, Inc.",
     "id": 28,
-    "description": "Your go-to, all-in-one editor with all the tools you need to give your content a personal flair.",
+    "description": "Unleash your creativity with Picsart, the ultimate all-in-one AI-powered photo and video editor. Whether you're a social media influencer, a small business owner, or just love creating, Picsart provides every tool you need to bring your ideas to life. Dive into a suite of powerful AI tools like object removal, background replacement, and style transfers. Enhance your photos with thousands of customizable filters, trendy effects, and unique stickers, or design stunning collages with our easy-to-use templates.\n\nOur full-featured video editor allows you to trim clips, merge videos, add background music, and apply eye-catching effects to make your content stand out. A key feature of Picsart is its vast library of user-generated and premium content, including millions of stickers and editable templates that make professional-level design accessible to everyone. The built-in drawing tools offer a complete art studio with customizable brushes, layers, and professional drawing tools for digital artists.\n\nFor anyone looking to elevate their digital content, Picsart is a comprehensive creative suite. It simplifies complex editing tasks and provides endless inspiration through its global community of creators. By combining powerful AI technology with an intuitive interface and a massive content library, the app empowers you to produce stunning visuals with ease. It's your go-to platform for giving your content a unique, personal flair that truly stands out.",
     "size": 99,
-    "reviews": 14000000,
+    "reviews": "14M",
     "ratingAvg": 4.4,
     "downloads": "1B+",
-    "ratings": [
-      { "name": "1 star", "count": 840000 },
-      { "name": "2 star", "count": 560000 },
-      { "name": "3 star", "count": 980000 },
-      { "name": "4 star", "count": 2100000 },
-      { "name": "5 star", "count": 9520000 }
-    ]
+    "ratings": [{"name": "1 star", "count": 840000}, {"name": "2 star", "count": 560000}, {"name": "3 star", "count": 980000}, {"name": "4 star", "count": 2100000}, {"name": "5 star", "count": 9520000}]
   }
 ]

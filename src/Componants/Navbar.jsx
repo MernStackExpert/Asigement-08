@@ -1,11 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router';
+import logo from "../assets/logo.png"
+import { Github } from 'lucide-react';
 
 const Navbar = () => {
   const link = <>
   <li><Link>Home</Link></li>
   <li><Link to={"/allapps"}>Apps</Link></li>
-  <li><Link>Installation</Link></li>
+  <li><Link to={"/installiton"}>Installation</Link></li>
   </>
   return (
     <div className="navbar bg-base-100 shadow-sm">
@@ -22,7 +24,7 @@ const Navbar = () => {
        }
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <a className="btn btn-ghost text-xl"><img className='h-[40px] w-[40px]' src={logo} alt="" /> HERO.IO</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 font-semibold">
@@ -32,7 +34,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+     <a className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white w-40 h-12'><Github /> Contribute</a>
   </div>
 </div>
   );
