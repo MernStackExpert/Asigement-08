@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2048px-WhatsApp.svg.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "A simple, secure, and reliable messaging and calling app. Connect with friends and family for free.",
+    "size": 55,
+    "reviews": 180543876,
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 3610877 },
+      { "name": "2 star", "count": 3610877 },
+      { "name": "3 star", "count": 7221755 },
+      { "name": "4 star", "count": 21665265 },
+      { "name": "5 star", "count": 144435099 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Share photos, videos, and stories. Connect with friends, discover new interests, and explore what's happening in the world.",
+    "size": 85,
+    "reviews": 142109876,
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 5684395 },
+      { "name": "2 star", "count": 4263296 },
+      { "name": "3 star", "count": 7105493 },
+      { "name": "4 star", "count": 18474283 },
+      { "name": "5 star", "count": 106582409 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/H9jdtLq2m58o-CDI427Htn-hI2s5lyp0G-wc_Z76eTLs5KCzS0CqzQ07h5mn4Y-p1x4",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 3,
+    "description": "Dash as fast as you can! Dodge the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.",
+    "size": 152,
+    "reviews": 40112345,
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 2005617 },
+      { "name": "2 star", "count": 1203370 },
+      { "name": "3 star", "count": 2406740 },
+      { "name": "4 star", "count": 5615728 },
+      { "name": "5 star", "count": 28880890 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 4,
+    "description": "Secure, smart, and easy to use email. Gmail keeps your messages safe and you organized.",
+    "size": 68,
+    "reviews": 9540230,
+    "ratingAvg": 4.3,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 954023 },
+      { "name": "2 star", "count": 477011 },
+      { "name": "3 star", "count": 667816 },
+      { "name": "4 star", "count": 1431034 },
+      { "name": "5 star", "count": 6010346 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "Connect with friends, family and people you know. Share photos and videos, send messages and get updates.",
+    "size": 78,
+    "reviews": 135400000,
+    "ratingAvg": 3.8,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 27080000 },
+      { "name": "2 star", "count": 10832000 },
+      { "name": "3 star", "count": 13540000 },
+      { "name": "4 star", "count": 20310000 },
+      { "name": "5 star", "count": 63638000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/TikTok_icon_2022.svg/1200px-TikTok_icon_2022.svg.png",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 6,
+    "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine.",
+    "size": 95,
+    "reviews": 50200000,
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 2510000 },
+      { "name": "2 star", "count": 1506000 },
+      { "name": "3 star", "count": 2510000 },
+      { "name": "4 star", "count": 6024000 },
+      { "name": "5 star", "count": 37650000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2048px-X_logo_2023.svg.png",
+    "title": "X (formerly Twitter)",
+    "companyName": "X Corp.",
+    "id": 7,
+    "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+    "size": 110,
+    "reviews": 25000000,
+    "ratingAvg": 4.1,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 2750000 },
+      { "name": "2 star", "count": 1250000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/1200px-Snapchat_logo.svg.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 8,
+    "description": "Share the moment! Snap a pic or a video, add a caption, and send it to your best friends and family.",
+    "size": 75,
+    "reviews": 30500000,
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 1525000 },
+      { "name": "2 star", "count": 915000 },
+      { "name": "3 star", "count": 1830000 },
+      { "name": "4 star", "count": 4575000 },
+      { "name": "5 star", "count": 21655000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 9,
+    "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
+    "size": 45,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 750000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2250000 },
+      { "name": "5 star", "count": 10650000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 10,
+    "description": "Listen to albums, playlists, or single songs for free on mobile and tablet. Discover a world of music.",
+    "size": 80,
+    "reviews": 28000000,
+    "ratingAvg": 4.7,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 840000 },
+      { "name": "2 star", "count": 560000 },
+      { "name": "3 star", "count": 1120000 },
+      { "name": "4 star", "count": 3360000 },
+      { "name": "5 star", "count": 22120000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 11,
+    "description": "Watch TV shows and movies recommended just for you, including award-winning Netflix original series.",
+    "size": 60,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 720000 },
+      { "name": "2 star", "count": 480000 },
+      { "name": "3 star", "count": 840000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 8160000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Watch, stream, and discover what the world is watching. From the biggest names to the hottest trends.",
+    "size": 120,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 7500000 },
+      { "name": "2 star", "count": 4500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 22500000 },
+      { "name": "5 star", "count": 106500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Maps_icon_%282020%29.svg/2048px-Google_Maps_icon_%282020%29.svg.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Navigate your world faster and easier with Google Maps. Get real-time GPS navigation, traffic, and transit info.",
+    "size": 90,
+    "reviews": 20000000,
+    "ratingAvg": 4.6,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 14400000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/2295px-Google_Drive_icon_%282020%29.svg.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "A safe place for all your files. Get started with 15 GB of free Google online storage.",
+    "size": 70,
+    "reviews": 8000000,
+    "ratingAvg": 4.8,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 160000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 240000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 6720000 }
+    ]
+  },
+  {
+    "image": "https://media.licdn.com/dms/image/D560BAQHYJ1m-a1wV2w/company-logo_200_200/0/1718090726615/bkash_logo?e=2147483647&v=beta&t=l3zJ7Ea1-87p4oRz7qUu15UuJ7R9gH1fE8wI3fT9yX8",
+    "title": "bKash",
+    "companyName": "bKash Limited",
+    "id": 15,
+    "description": "The leading mobile financial service in Bangladesh, offering a broad range of payment services and money transfer.",
+    "size": 50,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": "100M+",
+    "ratings": [
+      { "name": "1 star", "count": 75000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 225000 },
+      { "name": "5 star", "count": 1065000 }
+    ]
+  },
+  {
+    "image": "https://static-images.daraz.com.bd/images/ims-plogo/daraz_500x500_01.png",
+    "title": "Daraz Online Shopping App",
+    "companyName": "Daraz",
+    "id": 16,
+    "description": "The leading online shopping platform in South Asia, offering a wide variety of products.",
+    "size": 65,
+    "reviews": 2000000,
+    "ratingAvg": 4.3,
+    "downloads": "50M+",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 140000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1260000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png",
+    "title": "LinkedIn: Jobs & Business News",
+    "companyName": "LinkedIn",
+    "id": 17,
+    "description": "Find jobs, connect with professionals, and build your career. Your professional network starts here.",
+    "size": 88,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 2160000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 18,
+    "description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+    "size": 72,
+    "reviews": 11000000,
+    "ratingAvg": 4.7,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 330000 },
+      { "name": "2 star", "count": 220000 },
+      { "name": "3 star", "count": 440000 },
+      { "name": "4 star", "count": 1210000 },
+      { "name": "5 star", "count": 8800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Discord_logo_wordmark.svg/2560px-Discord_logo_wordmark.svg.png",
+    "title": "Discord: Talk, Chat & Hang Out",
+    "companyName": "Discord Inc.",
+    "id": 19,
+    "description": "Your place to talk. Whether you’re part of a school club, gaming group, or a worldwide art community.",
+    "size": 130,
+    "reviews": 6000000,
+    "ratingAvg": 4.5,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 360000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 4260000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zoom_Communications_Logo.svg/2560px-Zoom_Communications_Logo.svg.png",
+    "title": "Zoom - One Platform to Connect",
+    "companyName": "zoom.us",
+    "id": 20,
+    "description": "Work from anywhere with a single app that combines team chat, phone, whiteboard, meetings, and more.",
+    "size": 98,
+    "reviews": 2500000,
+    "ratingAvg": 4.2,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 125000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 375000 },
+      { "name": "5 star", "count": 1550000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 21,
+    "description": "Browse, search, get product details, read reviews, and purchase millions of products.",
+    "size": 82,
+    "reviews": 9000000,
+    "ratingAvg": 4.4,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 540000 },
+      { "name": "2 star", "count": 360000 },
+      { "name": "3 star", "count": 630000 },
+      { "name": "4 star", "count": 1350000 },
+      { "name": "5 star", "count": 6120000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Candy_Crush_Saga_icon.png",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 22,
+    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players.",
+    "size": 115,
+    "reviews": 35000000,
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 1750000 },
+      { "name": "2 star", "count": 1050000 },
+      { "name": "3 star", "count": 1750000 },
+      { "name": "4 star", "count": 5250000 },
+      { "name": "5 star", "count": 25200000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/PUBG_Mobile.png/330px-PUBG_Mobile.png",
+    "title": "PUBG MOBILE",
+    "companyName": "Level Infinite",
+    "id": 23,
+    "description": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile.",
+    "size": 750,
+    "reviews": 50000000,
+    "ratingAvg": 4.3,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7500000 },
+      { "name": "5 star", "count": 31500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microsoft_Word_logo_%282013-2019%29.svg/2491px-Microsoft_Word_logo_%282013-2019%29.svg.png",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "id": 24,
+    "description": "The trusted Word app lets you create, edit, view, and share your files with others quickly and easily.",
+    "size": 125,
+    "reviews": 6000000,
+    "ratingAvg": 4.7,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 240000 },
+      { "name": "4 star", "count": 720000 },
+      { "name": "5 star", "count": 4740000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_Acrobat_Reader_DC_icon.svg/2048px-Adobe_Acrobat_Reader_DC_icon.svg.png",
+    "title": "Adobe Acrobat Reader: Edit PDF",
+    "companyName": "Adobe",
+    "id": 25,
+    "description": "The most reliable PDF viewer and editor. View, share, annotate, and add e-signatures to PDF documents.",
+    "size": 150,
+    "reviews": 3000000,
+    "ratingAvg": 4.6,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 2160000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dropbox_logo_2017.svg/2560px-Dropbox_logo_2017.svg.png",
+    "title": "Dropbox: Cloud Photo Storage",
+    "companyName": "Dropbox, Inc.",
+    "id": 26,
+    "description": "Let anyone upload and transfer files to your cloud and access them anytime, anywhere.",
+    "size": 92,
+    "reviews": 2000000,
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1420000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png",
+    "title": "Shazam: Find Music",
+    "companyName": "Apple Inc.",
+    "id": 27,
+    "description": "Identify songs, find music, and discover the lyrics for all your favorite tracks.",
+    "size": 40,
+    "reviews": 4000000,
+    "ratingAvg": 4.8,
+    "downloads": "500M+",
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 3360000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Picsart_logo.png",
+    "title": "Picsart AI Photo Editor, Video",
+    "companyName": "PicsArt, Inc.",
+    "id": 28,
+    "description": "Your go-to, all-in-one editor with all the tools you need to give your content a personal flair.",
+    "size": 99,
+    "reviews": 14000000,
+    "ratingAvg": 4.4,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 840000 },
+      { "name": "2 star", "count": 560000 },
+      { "name": "3 star", "count": 980000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 9520000 }
+    ]
+  }
+]
