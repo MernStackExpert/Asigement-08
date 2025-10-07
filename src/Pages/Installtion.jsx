@@ -50,30 +50,16 @@ console.log(app)
         <div className="flex justify-between">
           <h1 className="font-bold text-2xl">{matchedData.length} Apps Found</h1>
           <label className="form-control w-full max-w-xs">
-            {/* <details className="w-64 bg-white border border-gray-300 rounded">
-              <summary className="flex items-center justify-between p-3 list-none cursor-pointer">
-                <span >Sort By Size</span>
-                <span><ArrowDown /></span>
-             
-              </summary>
-
-              <div className="border-t border-gray-200">
-                <a href="#" className="block p-3 text-sm hover:bg-gray-200">
-                  Low to High
-                </a>
-                <a href="#" className="block p-3 text-sm hover:bg-gray-200">
-                  High To Low
-                </a>
-              </div>
-            </details> */}
-
             <select className="select select-bordered" value={sortItem} onChange={e => setSortItem(e.target.value)}>
               <option value='none'>Sort by Downlods</option>
-              <option value='asc'>High to Low</option>
-              <option value='dsc'>Low to High</option>
+              <option value='asc'>Low to High</option>
+              <option value='dsc'>High to Low</option>
             </select>
           </label>
         </div>
+        {
+          matchedData.length === 0 && <h1 className="font-bold text-4xl text-center mt-20">NO APP INSTALLED</h1>
+        }
 
         {
           sortOrder().map(data => <InstallCard handleRemove={handleRemove } key={data.id} data={data}></InstallCard>)
