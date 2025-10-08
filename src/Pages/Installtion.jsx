@@ -30,9 +30,9 @@ const Installtion = () => {
 
   const sortOrder = () => {
     if(sortItem === "asc"){
-      return [...matchedData].sort((a , b) => a.size - b.size)
+      return [...matchedData].sort((a , b) => a.downloads - b.downloads)
     }else if(sortItem === "dsc"){
-      return [...matchedData].sort((a , b) => b.size - a.size)
+      return [...matchedData].sort((a , b) => b.downloads - a.downloads)
     }else{
       return matchedData
     }
