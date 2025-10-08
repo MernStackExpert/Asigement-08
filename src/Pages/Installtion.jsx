@@ -4,6 +4,7 @@ import InstallCard from "../Componants/InstallCard";
 import { useAppApi } from "../Hooks/useAppAPi";
 import { getStoredData, removeFromStoreData } from "../Utils/LocalStrog";
 import { ArrowDown } from "lucide-react";
+import { toast } from "react-toastify";
 
 const Installtion = () => {
   const [sortItem , setSortItem]= useState("")
@@ -24,6 +25,7 @@ const Installtion = () => {
     removeFromStoreData(id);
     const remainingIds = installedIds.filter(currentId => currentId !== id);
     setInstalledIds(remainingIds);
+    toast("App is Uninstall !")
   };
 
   const sortOrder = () => {

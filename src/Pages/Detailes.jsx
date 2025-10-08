@@ -4,6 +4,7 @@ import { useParams } from "react-router";
 import { useAppApi } from "../Hooks/useAppAPi";
 import DetailesCard from "../Componants/DetailesCard";
 import RatingChart from "../Componants/RatingChart";
+import AppNotFound from "../Componants/AppNotFound";
 
 const Detailes = () => {
   const { id } = useParams();
@@ -14,7 +15,7 @@ const Detailes = () => {
  
 
   if (!findData) {
-  return <p className="text-center p-10">Loading...</p>;
+  return <AppNotFound></AppNotFound>;
 }
 
   const ratingData = findData.ratings

@@ -3,6 +3,7 @@ import downloadIcon from "../assets/icon-downloads.png";
 import ratingIcon from "../assets/icon-ratings.png";
 import likeIcon from "../assets/icon-review.png";
 import { addInstallData, getStoredData } from '../Utils/LocalStrog';
+import { toast } from 'react-toastify';
 
 const DetailesCard = ({ findData }) => {
   const { id, image, title, companyName, ratingAvg, size, downloads, reviews } = findData;
@@ -12,6 +13,7 @@ const DetailesCard = ({ findData }) => {
   const handleAddData = (id) => {
     addInstallData(id); 
     setIsInstalled(true);
+    toast("App is Installed!")
   };
 
   return (
@@ -60,7 +62,7 @@ const DetailesCard = ({ findData }) => {
               disabled={isInstalled}
               className={`btn text-white ${isInstalled ? 'bg-gray-400 cursor-not-allowed' : 'bg-[#00D390]'}`}
             >
-              {isInstalled ? 'Already Installed' : `Install Now (${size} MB)`}
+              {isInstalled ? 'Installed' : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>
