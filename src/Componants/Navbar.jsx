@@ -1,14 +1,17 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from "../assets/logo.png"
 import { Github } from 'lucide-react';
 
 const Navbar = () => {
   const link = <>
-  <li><Link>Home</Link></li>
-  <li><Link to={"/allapps"}>Apps</Link></li>
-  <li><Link to={"/installiton"}>Installation</Link></li>
+  <li><NavLink to={"/"} className={"navs"}>Home</NavLink></li>
+  <li><NavLink className={"navs"} to={"/allapps"}>Apps</NavLink></li>
+  <li><NavLink className={"navs"} to={"/installiton"}>Installation</NavLink></li>
+
   </>
+
+
   return (
     <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">
@@ -24,7 +27,7 @@ const Navbar = () => {
        }
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl"><img className='h-[40px] w-[40px]' src={logo} alt="" /> HERO.IO</a>
+    <a className="btn btn-ghost text-xl"><img className='h-[40px] w-[40px]' src={logo} alt="" /> <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">HERO.IO</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 font-semibold">

@@ -25,7 +25,7 @@ const InstallCard = ({ data , handleRemove }) => {
         </div>
       </div>
       <div>
-        <button onClick={() => handleRemove(data.id)} className="btn bg-[#00D390] text-white">Unistall</button>
+        <button onClick={() => handleRemove(data.id)} className="btn bg-[#00D390] text-white">Uninstall</button>
       </div>
     </div>
   );

@@ -11,8 +11,7 @@ const Installtion = () => {
   const {app} = useAppApi();
 
   const [installedIds, setInstalledIds] = useState([]);
- 
-console.log(app)
+
     useEffect(() => {
     setInstalledIds(getStoredData());
   }, []);
@@ -50,8 +49,8 @@ console.log(app)
         <div className="flex justify-between">
           <h1 className="font-bold text-2xl">{matchedData.length} Apps Found</h1>
           <label className="form-control w-full max-w-xs">
-            <select className="select select-bordered" value={sortItem} onChange={e => setSortItem(e.target.value)}>
-              <option value='none'>Sort by Downlods</option>
+            <select className="select select-bordered font-semibold" value={sortItem} onChange={e => setSortItem(e.target.value)}>
+              <option value='none'>Sort by Size</option>
               <option value='asc'>Low to High</option>
               <option value='dsc'>High to Low</option>
             </select>

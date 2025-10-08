@@ -19,7 +19,6 @@ const Detailes = () => {
 
   const ratingData = findData.ratings
   
-  console.log(ratingData)
   return (
     <div className="max-w-[1440px] mx-auto">
      <DetailesCard findData={findData}></DetailesCard>
