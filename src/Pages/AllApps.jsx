@@ -59,7 +59,7 @@ const AllApps = () => {
           onChange={e => setSearchValue(e.target.value)} 
           className='input font-semibold' 
           type="search" 
-          placeholder='Search Product' 
+          placeholder="Search App"
         />
       </div>
 
